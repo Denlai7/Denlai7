@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Denlai7
 - 👀 I’m interested in games and coding
 - 🌱 I’m currently learning Python and C#
-- 💞️ I’m looking to collaborate on nothing lol
+- 💞️ I’m looking to collaborate on some interesting stuff
 - 📫 How to reach me: @Dymu_moi on telegram 
 
 <!---
